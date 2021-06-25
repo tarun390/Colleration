@@ -1,5 +1,5 @@
-import csv
 import numpy as np
+import csv
 
 def getDataSource(data_path):
     marks_pg = []
